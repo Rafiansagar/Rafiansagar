@@ -19,11 +19,9 @@
 
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiansagar" alt="rafiansagar" /></a> </p>
-
-<p>&nbsp;<img align="center" style="background: #000;" src="https://github-readme-stats.vercel.app/api?username=rafiansagar&show_icons=true&locale=en" alt="rafiansagar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiansagar&" alt="rafiansagar" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiansagar&show_icons=true&locale=en&layout=compact" alt="rafiansagar" /></p>
+![](https://github-readme-stats.vercel.app/api?username=rafiansagar&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafiansagar&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiansagar&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!---
 Rafiansagar/Rafiansagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
