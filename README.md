@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiansagar&label=Profile%20views&color=0e75b6&style=flat" alt="rafiansagar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiansagar&label=Profile%20views&color=blue&style=for-the-badge" alt="rafiansagar" /> </p>
 <p align="left"> <a href="https://twitter.com/rafiansagar" target="blank"><img src="https://img.shields.io/twitter/follow/rafiansagar?logo=twitter&style=for-the-badge" alt="rafiansagar" /></a> </p>
 
 <h2>Hi, I'm <a href="https://www.facebook.com/rafiansagar">@Rafiansagar</a> 👨‍💻 </h2>
