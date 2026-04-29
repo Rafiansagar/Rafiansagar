@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines= WordPress+%7C++PHP+%7C+React+%7C+Developer;Building+UI+that+people+love;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=WordPress+%7C+PHP+%7C+React+%7C+Developer;Building+UI+that+people+love;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
