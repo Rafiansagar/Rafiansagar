@@ -48,10 +48,10 @@
 
 ---
 
-### Random Dev Quote
+### Activity
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiansagar&theme=react-dark&hide_border=true&color=00f7ff&line=00f7ff&point=ffffff" />
 </p>
 
 ---
