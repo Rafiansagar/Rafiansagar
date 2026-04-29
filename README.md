@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=WordPress+%7C+PHP+%7C+React+%7C+Developer;Building+UI+that+people+love;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=WordPress+%7C+Elementor+%7C+PHP+%7C+React+%7C+MySQL;Theme+%26+Plugin+Developer;Building+UI+that+people+love;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ### About Me
 
 - Working at **RSTheme** building web products
-- Stack: WordPress . PHP · React · Tailwind · MySQL
+- Stack: WordPress · Elementor · PHP · Theme · Plugin · React · MySQL
 - Into clean UI, design systems, and developer tooling
 - Find me on [Facebook](https://fb.com/rafiansagar) · [Instagram](https://instagram.com/rafiansagar) · [LinkedIn](https://linkedin.com/in/md-asif-ahmad-sagar) · [CodePen](https://codepen.io/rafiansagar) · [Stack Overflow](https://stackoverflow.com/users/18814447)
 
