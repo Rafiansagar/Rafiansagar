@@ -25,61 +25,8 @@
   <img src="https://skillicons.dev/icons?i=wordpress,php,html,css,gulp,js,ts,sass,react,nextjs,tailwind,bootstrap,mysql,docker,git,figma,linux,ps&perline=9" />
 </p>
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rafiansagar&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00f7ff&title_color=00f7ff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rafiansagar&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=0969da&title_color=0969da" />
-    <img src="https://github-readme-stats.vercel.app/api?username=rafiansagar&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiansagar&theme=github_dark&hide_border=true&layout=compact&title_color=00f7ff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiansagar&theme=default&hide_border=true&layout=compact&title_color=0969da" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiansagar&theme=default&hide_border=true&layout=compact" height="160" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rafiansagar&theme=github-dark-blue&hide_border=true&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rafiansagar&theme=default&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiansagar&theme=default&hide_border=true" />
-  </picture>
-</p>
-
----
-
-### Trophies
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rafiansagar&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=rafiansagar&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=rafiansagar&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" />
-  </picture>
-</p>
-
----
-
-### Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rafiansagar&theme=react-dark&hide_border=true&color=00f7ff&line=00f7ff&point=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rafiansagar&theme=github-light&hide_border=true&color=0969da&line=0969da&point=0969da" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiansagar&theme=github-light&hide_border=true" alt="activity graph" />
-  </picture>
-</p>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafiansagar/rafiansagar/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafiansagar/rafiansagar/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rafiansagar/rafiansagar/output/github-snake.svg" />
 </picture>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0d1117&height=120&section=footer)
