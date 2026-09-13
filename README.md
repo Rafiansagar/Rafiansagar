@@ -15,7 +15,7 @@
 - Working at **RSTheme** building web products
 - Stack: WordPress · Elementor · PHP · Theme · Plugin · React · MySQL
 - Into clean UI, design systems, and developer tooling
-- Find me on [Facebook](https://fb.com/rafiansagar) · [Instagram](https://instagram.com/rafiansagar) · [LinkedIn](https://linkedin.com/in/md-asif-ahmad-sagar) · [CodePen](https://codepen.io/rafiansagar) · [Stack Overflow](https://stackoverflow.com/users/18814447)
+- Find me on [Facebook](https://fb.com/rafiansagar) · [Instagram](https://instagram.com/rafian_sagar) · [LinkedIn](https://linkedin.com/in/md-asif-ahmad-sagar) · [CodePen](https://codepen.io/rafiansagar) · [Stack Overflow](https://stackoverflow.com/users/18814447)
 
 ---
 
