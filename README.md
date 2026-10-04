@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f3a,100:00f7ff&height=220&section=header&text=Rafiansagar&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%40%20RSTheme&descSize=20&descAlignY=62&descColor=00f7ff&animation=twinkling)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafiansagar&label=Profile+Views&color=00f7ff&style=flat-square" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=WordPress+%7C+Elementor+%7C+PHP+%7C+React+%7C+MySQL;Theme+%26+Plugin+Developer;Building+UI+that+people+love;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
